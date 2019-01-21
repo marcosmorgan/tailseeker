@@ -73,7 +73,7 @@ GENOMES = {
 
 GENOME_SEQUENCE_SOURCES = {
     'GRCh38': 'ftp://ftp.sanger.ac.uk/pub/gencode/Gencode_human/release_24/GRCh38.p5.genome.fa.gz',
-    'GRCm38': 'ftp://ftp.sanger.ac.uk/pub/gencode/Gencode_mouse/release_M9/GRCm38.p4.genome.fa.gz',
+    'GRCm38': 'ftp://ftp.ensembl.org/pub/release-68/fasta/mus_musculus/dna/Mus_musculus.GRCm38.68.dna.toplevel.fa.gz',
     'GRCz10': 'ftp://ftp.ensembl.org/pub/release-84/fasta/danio_rerio/dna/Danio_rerio.GRCz10.dna.toplevel.fa.gz',
     'WBcel235': 'ftp://ftp.ensembl.org/pub/release-84/fasta/caenorhabditis_elegans/dna/Caenorhabditis_elegans.WBcel235.dna.toplevel.fa.gz',
     'BDGP6': 'ftp://ftp.ensembl.org/pub/release-84/fasta/drosophila_melanogaster/dna/Drosophila_melanogaster.BDGP6.dna.toplevel.fa.gz',
